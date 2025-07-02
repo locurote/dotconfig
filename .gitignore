@@ -1,0 +1,17 @@
+# ignore everything in the dot config directory
+/.config/*
+
+# excluding the important directory and files
+!/.config/hypr/
+!/.config/kitty/
+!/.config/spotify-player/
+!/.config/btop/
+
+# gtk settings
+!/.config/gtk-4.0/settings.ini
+!/.config/gtk-3.0/settings.ini
+!/.config/gtkrc-2.0
+!/.config/gtkrc
+
+# custom user units
+!/.config/systemd/*.service

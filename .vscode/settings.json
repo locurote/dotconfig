@@ -1,0 +1,5 @@
+{
+    "path-autocomplete.triggerOutsideStrings": true,
+    "path-autocomplete.pathSeparators": " \t({[!",
+    "explorer.excludeGitIgnore": false
+}

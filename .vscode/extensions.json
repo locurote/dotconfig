@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ionutvmi.path-autocomplete",
+        "tamasfe.even-better-toml",
+        "redhat.vscode-yaml"
+    ]
+}
