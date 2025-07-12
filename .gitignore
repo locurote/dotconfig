@@ -4,6 +4,7 @@
 # excluding the important directory and files
 !/.config/hypr/
 !/.config/kitty/
+!/.config/helix/
 !/.config/spotify-player/
 !/.config/btop/
 
